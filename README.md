@@ -3,7 +3,7 @@
 ### 🚀 DevOps Engineer | ☁️ AWS Certified DevOps Engineer – Professional
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagarajudev8" alt="nagarajudev8" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU2dWFibzc3ZGxlNnN5dXl1ZXNjaTlsZzY4ZjdqMTBkdGdtMmh1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/117gJeEt792KPe/giphy.gif" alt="nagarajudev8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWhoM3Nvc2F0ZXJ5aTQ1OGc0MmI3eGRlb2VicG9jYnI3NmZlMGRlOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ADSJHOoIvyjKM/giphy.gif" alt="nagarajudev8" /></a> </p>
 
 
 - 🔭 I'm currently working on **Hybrid-AI-Assistant---KURAMA**
