@@ -29,4 +29,5 @@
 
 ## GitHub Stats
 ![Nagaraju's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagarajudev8&show_icons=true&theme=radical)
+[![Nagaraju's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagarajudev8)](https://github.com/nagarajudev8/github-readme-stats)
 
