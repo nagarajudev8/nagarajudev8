@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **Hybrid-AI-Assistant---KURAMA**
 
-- 💬 Ask me about **DevOps Engineer with 4+ years in AWS, CI/CD, IaC, and containers. Focused on scalable infrastructure, automation, and improving system reliability.**
+- 💬 **DevOps Engineer with 4+ years in AWS, CI/CD, IaC, and containers. Focused on scalable infrastructure, automation, and improving system reliability.**
 
 - 📫 How to reach me **nagarajudev@gmail.com**
 
