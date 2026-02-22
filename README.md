@@ -27,7 +27,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagarajudev8&show_icons=true&locale=en" alt="nagarajudev8" /></p>
 
-## GitHub Stats
-![Nagaraju's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagarajudev8&show_icons=true&theme=radical)
-[![Nagaraju's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagarajudev8)](https://github.com/nagarajudev8/github-readme-stats)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagarajudev8&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajudev8&layout=compact&theme=radical" height="165"/>
+</p>
 
